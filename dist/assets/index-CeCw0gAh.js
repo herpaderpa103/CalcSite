@@ -291,7 +291,7 @@ l0,-`+(t+144)+`c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
             Although we dont use them in the applied project, it is still an important concept. 
             Lets look at the directional feild of y' = x+y for example: </p>
             <div class="my-6">
-              <img src="/CalcSite/feild.png" class="max-w-xs rounded-lg shadow-md mx-auto"/>
+              <img src="./feild.png" class="max-w-xs rounded-lg shadow-md mx-auto"/>
             </div>
             <p>To find a solution using this we can just choose a point and draw the curve of the solution by following the Lines. 
             Here what it looks like for the point (0,1): </p>
