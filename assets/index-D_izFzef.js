@@ -296,7 +296,7 @@ l0,-`+(t+144)+`c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
             <p>To find a solution using this we can just choose a point and draw the curve of the solution by following the Lines. 
             Here what it looks like for the point (0,1): </p>
             <div class="my-6">
-              <img src="/feild2.png" class="max-w-xs rounded-lg shadow-md mx-auto"/>
+              <img src="./feild2.png" class="max-w-xs rounded-lg shadow-md mx-auto"/>
             </div>
           </div>
 
@@ -559,7 +559,7 @@ l0,-`+(t+144)+`c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
               </div>
               <div id="step2a15" class="px-4 py-2 bg-gray-50"></div>
               <div class="my-6">
-                <img src="/bottle.jpg" class="max-w-xs rounded-lg shadow-md mx-auto"/>
+                <img src="./bottle.jpg" class="max-w-xs rounded-lg shadow-md mx-auto"/>
               </div>
               <p>The longer time went on the more the actual values were skewed from the models prediction. 
               I belive this is not the models fault becuase the shape of the bottle was not a perfect cylinder. 
@@ -719,7 +719,7 @@ l0,-`+(t+144)+`c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
               <div id="step4a3" class="px-4 py-2 bg-gray-50"></div>
 
               <p>To find out how the radius decreases as height decreases we can visualize it with this graph.</p>
-              <img src="/graph.png" class="max-w-xs rounded-lg shadow-md mx-auto"/>
+              <img src="./graph.png" class="max-w-xs rounded-lg shadow-md mx-auto"/>
               <p class="text-center">This is a side view of the sphere. 
               As the height of the water level decreases the radius will decrease following the curve of this circle.
               So we can find r by using the equation of this circle.
